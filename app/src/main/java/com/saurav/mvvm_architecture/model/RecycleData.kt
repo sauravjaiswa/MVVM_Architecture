@@ -1,4 +1,4 @@
-package com.saurav.mvvm_architecture
+package com.saurav.mvvm_architecture.model
 
 data class RecycleData(
     var name: String,
